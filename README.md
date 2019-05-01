@@ -31,7 +31,7 @@ Have issues? Open an issue! Improvements? Pull requests welcome!
 
     ```sh
     # create a new Gatsby site using the default starter + ✨CIVIC magic✨
-    gatsby new my-default-starter https://github.com/jaronheard/civic-gatsby-starter
+    npx gatsby new my-default-starter https://github.com/jaronheard/civic-gatsby-starter
     ```
 
 1.  **Start developing.**
