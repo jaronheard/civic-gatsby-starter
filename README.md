@@ -23,8 +23,6 @@ used prettier setting from civic repo
 Have issues? Open an issue! Improvements? Pull requests welcome!
 ```
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
-
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
