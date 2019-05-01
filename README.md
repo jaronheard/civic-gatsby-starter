@@ -2,8 +2,10 @@
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" height="60" />
-    <img alt="CIVIC" src="http://civicplatform.org/8423c2821974cccdbdadd9a431a2aa5e.svg" height="60" />    
   </a>
+    <a href="https://www.civicplatform.org">
+    <img alt="CIVIC" src="https://civicplatform.org/8423c2821974cccdbdadd9a431a2aa5e.svg" height="60" />
+  </a>  
 </p>
 <h1 align="center">
   Gatsby's default starter + ✨CIVIC magic✨
@@ -12,11 +14,9 @@
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 **Changes/Additions**
-```
-added @hackoregon/component-library (CIVIC magic)
-added emotion and related plugins for styling
-used prettier setting from civic repo
-```
+ - added <a href="https://www.npmjs.com/package/@hackoregon/component-library/v/ci">@hackoregon/component-library@ci</a> (CIVIC magic)
+ - added emotion and related plugins for styling
+ - used prettier setting from [civic repo](https://github.com/hackoregon/civic)
 
 **Feedback**
 
