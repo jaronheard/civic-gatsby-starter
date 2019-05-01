@@ -19,9 +19,9 @@ used prettier setting from civic repo
 ```
 
 **Feedback**
-```
+
 Have issues? Open an issue! Improvements? Pull requests welcome!
-```
+
 
 ## 🚀 Quick start
 
