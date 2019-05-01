@@ -1,7 +1,8 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" height="60" />
+    <img alt="CIVIC" src="http://civicplatform.org/8423c2821974cccdbdadd9a431a2aa5e.svg" height="60" />    
   </a>
 </p>
 <h1 align="center">
