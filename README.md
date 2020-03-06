@@ -14,14 +14,14 @@
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 **Changes/Additions**
- - added <a href="https://www.npmjs.com/package/@hackoregon/component-library/v/ci">@hackoregon/component-library@ci</a> (CIVIC magic)
- - added emotion and related plugins for styling
- - used prettier setting from [civic repo](https://github.com/hackoregon/civic)
+
+- added <a href="https://www.npmjs.com/package/@hackoregon/ui-themes/">@hackoregon/ui-themes</a> (CIVIC magic)
+- added emotion and related plugins for styling
+- used prettier and eslint settings from [civic repo](https://github.com/hackoregon/civic)
 
 **Feedback**
 
 Have issues? Open an issue! Improvements? Pull requests welcome!
-
 
 ## 🚀 Quick start
 

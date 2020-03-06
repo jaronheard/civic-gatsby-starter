@@ -1,21 +1,18 @@
 import React from "react";
 import { Link } from "gatsby";
 
-import { PageLayout } from "@hackoregon/component-library";
-import SEO from "../components/seo";
-
-import "@hackoregon/component-library/assets/global.styles.css";
+import SEO from "../components/SEO";
+import Wrapper from "../components/Wrapper";
 
 const SecondPage = () => (
-  <PageLayout
-    heroTitle="Civic and Gatsby Starter"
-    heroSubtitle="They play nice!"
-  >
+  <Wrapper>
     <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
-  </PageLayout>
+    <div heroTitle="Civic and Gatsby Starter" heroSubtitle="They play nice!">
+      <h1>Hi from the second page</h1>
+      <p>Welcome to page 2</p>
+      <Link to="/">Go back to the homepage</Link>
+    </div>
+  </Wrapper>
 );
 
 export default SecondPage;
