@@ -1,10 +1,16 @@
-import React from "react";
+/** @jsx jsx */
 import PropTypes from "prop-types";
-import { Global } from "@emotion/core";
+import { Global, jsx, css } from "@emotion/core";
 import { BrandTheme } from "@hackoregon/ui-themes";
 
 const Wrapper = ({ children }) => (
-  <div>
+  <div
+    css={css`
+      margin: 2em auto;
+      padding: 0 1em;
+      max-width: 600px;
+    `}
+  >
     <Global styles={BrandTheme} />
     {children}
   </div>
